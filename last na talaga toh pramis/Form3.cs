@@ -229,24 +229,27 @@ namespace last_na_talaga_toh_pramis
 
         private void btn_coffee_Click_1(object sender, EventArgs e)
         {
-            panel_order.Show();
-            panpastries.Hide();
-            panelmilktea.Hide();
+            userControl11.Show();
+            userControl21.Hide();
+            userControl31.Hide();
+            userControl11.BringToFront();
 
         }
 
         private void btnmilktea_Click_1(object sender, EventArgs e)
         {
-            panelmilktea.Show();
-            panel_order.Hide();
-            panpastries.Hide();
+            userControl11.Hide();
+            userControl21.Hide();
+            userControl31.Show();
+            userControl31.BringToFront()
         }
 
         private void btn_patries_Click_1(object sender, EventArgs e)
         {
-            panpastries.Show();
-            panel_order.Hide();
-            panelmilktea.Hide();
+            userControl11.Hide();
+            userControl21.Show();
+            userControl31.Hide();
+            userControl21.BringToFront();
         }
 
         private void picBagel_Click_1(object sender, EventArgs e)

@@ -41,3 +41,28 @@ C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh
 C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.count.resources
 C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.ProductAdd.resources
 C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Product.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\bin\Debug\Database1.mdf
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\bin\Debug\Database1_log.ldf
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\bin\Debug\last_na_talaga_toh_pramis.exe.config
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\bin\Debug\last_na_talaga_toh_pramis.exe
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\bin\Debug\last_na_talaga_toh_pramis.pdb
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\bin\Debug\Guna.UI2.dll
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.AssemblyReference.cache
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.admin.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Form2.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.aub3.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.count.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Dashboard.UserControl1Dashboard.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Form3.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.ProductAdd.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Properties.Resources.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Product.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.UCpastries.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.UserControl1.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.UserControl2.resources
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.GenerateResource.cache
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.CoreCompileInputs.cache
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.CopyComplete
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.exe
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.pdb
+C:\Users\Ting\Source\Repos\coOdejamz\shop\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.UserControl3.resources
