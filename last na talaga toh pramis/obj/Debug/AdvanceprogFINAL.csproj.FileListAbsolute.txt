@@ -1,0 +1,43 @@
+F:\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\Guna.UI2.dll
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.AssemblyReference.cache
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.SuggestedBindingRedirects.cache
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Form2.resources
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Form3.resources
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Properties.Resources.resources
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.GenerateResource.cache
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.CoreCompileInputs.cache
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.CopyComplete
+F:\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\Database1.mdf
+F:\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\Database1_log.ldf
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.admin.resources
+F:\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\last_na_talaga_toh_pramis.exe.config
+F:\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\last_na_talaga_toh_pramis.exe
+F:\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\last_na_talaga_toh_pramis.pdb
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.exe
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.pdb
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.aub3.resources
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Dashboard.UserControl1Dashboard.resources
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.UCpastries.resources
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\Database1.mdf
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\Database1_log.ldf
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\last_na_talaga_toh_pramis.exe.config
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\last_na_talaga_toh_pramis.exe
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\last_na_talaga_toh_pramis.pdb
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\Guna.UI2.dll
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.AssemblyReference.cache
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.admin.resources
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Form2.resources
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.aub3.resources
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Dashboard.UserControl1Dashboard.resources
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Form3.resources
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Properties.Resources.resources
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.UCpastries.resources
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.GenerateResource.cache
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.CoreCompileInputs.cache
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\AdvanceprogFINAL.csproj.CopyComplete
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.exe
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.pdb
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.count.resources
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.ProductAdd.resources
+C:\Users\Aubrey\Desktop\2nd year lesson\Enginerring Economics\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Product.resources
